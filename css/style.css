@@ -1,5 +1,12 @@
 .lb-data .lb-details .lb-caption {
-    font-size: 36px;
+  font-size: 36px;
+  color: #fff;
+  background-color: #000;
+}
+
+.lb-data .lb-details .lb-number {
+  color: #fff;
+  background-color: #000;
 }
 
 .lb-container .lb-nav a.lb-prev {
